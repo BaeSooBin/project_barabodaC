@@ -1,0 +1,12 @@
+포트폴리오 참조사이트 : https://baraboda.com/
+
+동영상 url : https://www.youtube.com/embed/YaiaVsAUZ5M
+
+section4 : 이미지 추가해서 액티비티 갤러리로 변경
+section8 : 3D 슬라이드로 변경
+
+mobile
+tnqls0470.dothome.co.kr/baraboda_project]
+
+깃허브
+https://github.com/BaeSooBin/baraboda_project.git
